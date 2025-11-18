@@ -17,7 +17,7 @@ const styles = {
   wrapper: {
     minHeight: "100vh",
     width: "100%",
-    background: "#f2f2f2",   
+    background: "#f2f2f2",
   },
 };
 
