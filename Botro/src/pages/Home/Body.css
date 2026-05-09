@@ -1,0 +1,17 @@
+.body {
+    width: 100%;
+    flex: 1;
+    padding: 48px 32px;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.body h1 {
+    font-size: 32px;
+    margin-bottom: 12px;
+}
+
+.body p {
+    color: #4b5563;
+    margin-bottom: 12px;
+}
